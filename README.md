@@ -16,4 +16,8 @@ plans, users, usage
 **Cómo ejecutar el notebook** 
 
 **Breve guía de reproducción**
-[Abrir en Colab](https://google.com)
+Descargar el repositorio desde GitHub.
+Abrir el archivo .ipynb en Jupyter Notebook
+Instale las bibliotecas requeridas (pandas, numpy, matplotlib y seaborn, entre otras que utilice el proyecto).
+Verifique que el archivo de datos se encuentre en la ruta indicada por el notebook.
+Ejecute las celdas en orden, de principio a fin, para reproducir el análisis y los resultados.
