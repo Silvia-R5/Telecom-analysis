@@ -14,6 +14,9 @@ plans, users, usage
 - Insight ejecutivo: Se redactaron conclusiones y recomendaciones basadas en el analisis de los planes y segmentos.
   
 **Cómo ejecutar el notebook** 
+-Abre el archivo `.ipynb` en GitHub
+-Haz clic en https://colab.research.google.com/drive/1-60KiG51hGDRAH1x5N2U_f8Okig5LzDI?usp=sharing 
+
 
 **Breve guía de reproducción**
 Descargar el repositorio desde GitHub.
